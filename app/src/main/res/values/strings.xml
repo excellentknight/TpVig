@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TpVig</string>
+    <string name="text">Text:</string>
+    <string name="key_phrase">Key Phrase:</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="run">Run</string>
+    <string name="results">Results</string>
+    <string name="result_message">Result Message</string>
+</resources>
